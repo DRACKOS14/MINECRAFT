@@ -1,0 +1,12 @@
+#cuerpo {
+    background-image: url("fondo2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h2 {
+    color:lime;
+}
+#lienzo {
+    background-color: rgb(237, 237, 237);
+    border-style: ridge;
+}
